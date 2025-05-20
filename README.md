@@ -1,1 +1,2 @@
-# belajar-kolaborasi
+# belajar kolaborasi
+belajar github sangat menyenangkan, by xooondev
